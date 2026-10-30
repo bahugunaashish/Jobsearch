@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+faculty_seen.json
+faculty_results.csv
+.streamlit/secrets.toml
+.env
